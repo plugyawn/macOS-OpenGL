@@ -1,2 +1,3 @@
-# MorphSim
-Inspired by Jeffrey Ventrella's Clusters and brainxyz's amazing life_game project.
+# OpenGL Template Repository
+
+Set-up for working on OpenGL projects. Can directly build with ```CMD + Shift + B```. Run from ```./app```.
